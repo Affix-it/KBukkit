@@ -1,0 +1,6 @@
+name: KBukkit
+version: '${project.version}'
+main: next.api.kbukkit.Kbukkit
+api-version: 1.19
+load: STARTUP
+authors: [ Next ]
